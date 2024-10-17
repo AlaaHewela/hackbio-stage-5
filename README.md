@@ -4,4 +4,4 @@
 
 
 ## Video
-[![Watch the video](https://raw.githubusercontent.com/AlaaHewela/hackbio-stage-5/main/thumbnail.png)](https://raw.githubusercontent.com/AlaaHewela/hackbio-stage-5/main/video.mov)
+[![Video Title](https://img.youtube.com/vi/ifR-tl4GySc/0.jpg)](https://www.youtube.com/watch?v=ifR-tl4GySc)
